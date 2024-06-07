@@ -37200,7 +37200,7 @@ $RefreshReg$(_c, "Navbar");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","@mui/icons-material/Menu":"eYtXA","@mui/icons-material/Close":"2z2cd","@mui/icons-material/Download":"WSq7r","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../assets/logo4.jpeg":"lxiNo"}],"9xmpe":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","@mui/icons-material/Menu":"eYtXA","@mui/icons-material/Close":"2z2cd","@mui/icons-material/Download":"WSq7r","../assets/logo4.jpeg":"lxiNo","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"9xmpe":[function(require,module,exports) {
 /**
  * React Router DOM v6.23.1
  *
@@ -43935,7 +43935,10 @@ var _default = exports.default = (0, _createSvgIcon.default)(/*#__PURE__*/ (0, _
     d: "M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"
 }), "Download");
 
-},{"c783f353c07fef8f":"7XM86","9ffe2466dc2dbc8e":"lVV9C","1a9741865726e19f":"6AEwr"}],"km3Ru":[function(require,module,exports) {
+},{"c783f353c07fef8f":"7XM86","9ffe2466dc2dbc8e":"lVV9C","1a9741865726e19f":"6AEwr"}],"lxiNo":[function(require,module,exports) {
+module.exports = require("ec6101b0ddc7a528").getBundleURL("aXMci") + "logo4.52557298.jpeg" + "?" + Date.now();
+
+},{"ec6101b0ddc7a528":"lgJ39"}],"km3Ru":[function(require,module,exports) {
 "use strict";
 var Refresh = require("7422ead32dcc1e6b");
 function debounce(func, delay) {
@@ -44073,10 +44076,7 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"7422ead32dcc1e6b":"786KC"}],"lxiNo":[function(require,module,exports) {
-module.exports = require("ec6101b0ddc7a528").getBundleURL("aXMci") + "logo4.52557298.jpeg" + "?" + Date.now();
-
-},{"ec6101b0ddc7a528":"lgJ39"}],"gpxvC":[function(require,module,exports) {
+},{"7422ead32dcc1e6b":"786KC"}],"gpxvC":[function(require,module,exports) {
 var process = require("5c5f593f489b826e");
 !function(e, t) {
     module.exports = t(require("42fd55d17379bcd"));
@@ -52072,7 +52072,7 @@ const Resume = ()=>{
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                                                 className: "inline text-xl",
-                                                children: "Summer Internship"
+                                                children: "SDE Intern at Protut"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
                                                 lineNumber: 59,
@@ -52080,7 +52080,7 @@ const Resume = ()=>{
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 className: "text-[#9f9f9f] text-base pb-2 pt-2",
-                                                children: "Ghaziabad (Aug'22 - Sep'22)"
+                                                children: "Ghaziabad (May'24 - Present)"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
                                                 lineNumber: 60,
@@ -52091,7 +52091,7 @@ const Resume = ()=>{
                                                 children: [
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                                            children: "Learnt C++ During Internship "
+                                                            children: "Protut is an edtech startup dedicated to designing a platform that enhances technical projects and improves candidate evaluations. "
                                                         }, void 0, false, {
                                                             fileName: "src/components/Resume.js",
                                                             lineNumber: 62,
@@ -52104,15 +52104,15 @@ const Resume = ()=>{
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                                            children: "Worked on a mini project using Web Development. A project based on Contibution and Spliting of money within Group"
+                                                            children: "Developing the frontend as well as backend of Protut\u2019s edtech platform using React.js,NodeJs,MongoDb and ExpressJs, enhancing user experience, and optimizing functionality"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Resume.js",
-                                                            lineNumber: 63,
+                                                            lineNumber: 64,
                                                             columnNumber: 37
                                                         }, undefined)
                                                     }, void 0, false, {
                                                         fileName: "src/components/Resume.js",
-                                                        lineNumber: 63,
+                                                        lineNumber: 64,
                                                         columnNumber: 33
                                                     }, undefined)
                                                 ]
@@ -52134,7 +52134,7 @@ const Resume = ()=>{
                                                 className: "before:absolute before:left-0 before:mt-1 before:h-4 before:w-4 before:bg-[#009e66]"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 68,
+                                                lineNumber: 69,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
@@ -52142,7 +52142,7 @@ const Resume = ()=>{
                                                 children: "Cisco Virtual Internship"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 69,
+                                                lineNumber: 70,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52150,7 +52150,7 @@ const Resume = ()=>{
                                                 children: "@cisco (Jun 2023 Jul 2023)"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 70,
+                                                lineNumber: 71,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -52161,19 +52161,6 @@ const Resume = ()=>{
                                                             children: "Acquired knowledge in Cyber Security fundamentals during Internship"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Resume.js",
-                                                            lineNumber: 72,
-                                                            columnNumber: 37
-                                                        }, undefined)
-                                                    }, void 0, false, {
-                                                        fileName: "src/components/Resume.js",
-                                                        lineNumber: 72,
-                                                        columnNumber: 33
-                                                    }, undefined),
-                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                                            children: "Executed a project to evaluate the existing college network and Designed campus network blueprint using Cisco Packet Tracer."
-                                                        }, void 0, false, {
-                                                            fileName: "src/components/Resume.js",
                                                             lineNumber: 73,
                                                             columnNumber: 37
                                                         }, undefined)
@@ -52181,17 +52168,30 @@ const Resume = ()=>{
                                                         fileName: "src/components/Resume.js",
                                                         lineNumber: 73,
                                                         columnNumber: 33
+                                                    }, undefined),
+                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                                            children: "Executed a project to evaluate the existing college network and Designed campus network blueprint using Cisco Packet Tracer."
+                                                        }, void 0, false, {
+                                                            fileName: "src/components/Resume.js",
+                                                            lineNumber: 74,
+                                                            columnNumber: 37
+                                                        }, undefined)
+                                                    }, void 0, false, {
+                                                        fileName: "src/components/Resume.js",
+                                                        lineNumber: 74,
+                                                        columnNumber: 33
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 71,
+                                                lineNumber: 72,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 67,
+                                        lineNumber: 68,
                                         columnNumber: 25
                                     }, undefined)
                                 ]
@@ -52217,7 +52217,7 @@ const Resume = ()=>{
                                         children: "My knowledge in some tools"
                                     }, void 0, false, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 81,
+                                        lineNumber: 82,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
@@ -52225,13 +52225,13 @@ const Resume = ()=>{
                                         children: "My Skills"
                                     }, void 0, false, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 82,
+                                        lineNumber: 83,
                                         columnNumber: 25
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/components/Resume.js",
-                                lineNumber: 80,
+                                lineNumber: 81,
                                 columnNumber: 21
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52246,7 +52246,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 86,
+                                                lineNumber: 87,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52254,13 +52254,13 @@ const Resume = ()=>{
                                                 children: "HTML"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 87,
+                                                lineNumber: 88,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 85,
+                                        lineNumber: 86,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52272,7 +52272,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 90,
+                                                lineNumber: 91,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52280,13 +52280,13 @@ const Resume = ()=>{
                                                 children: "CSS"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 91,
+                                                lineNumber: 92,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 89,
+                                        lineNumber: 90,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52298,7 +52298,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 94,
+                                                lineNumber: 95,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52306,13 +52306,13 @@ const Resume = ()=>{
                                                 children: "JavaScript"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 95,
+                                                lineNumber: 96,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 93,
+                                        lineNumber: 94,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52324,7 +52324,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 98,
+                                                lineNumber: 99,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52332,13 +52332,13 @@ const Resume = ()=>{
                                                 children: "Github"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 99,
+                                                lineNumber: 100,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 97,
+                                        lineNumber: 98,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52350,7 +52350,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 102,
+                                                lineNumber: 103,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52358,13 +52358,13 @@ const Resume = ()=>{
                                                 children: "React"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 103,
+                                                lineNumber: 104,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 101,
+                                        lineNumber: 102,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52376,7 +52376,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-5"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 106,
+                                                lineNumber: 107,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52384,13 +52384,13 @@ const Resume = ()=>{
                                                 children: "TailwindCss"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 107,
+                                                lineNumber: 108,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 105,
+                                        lineNumber: 106,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52402,7 +52402,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 110,
+                                                lineNumber: 111,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52410,13 +52410,13 @@ const Resume = ()=>{
                                                 children: "NodeJs"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 111,
+                                                lineNumber: 112,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 109,
+                                        lineNumber: 110,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52428,7 +52428,7 @@ const Resume = ()=>{
                                                 className: "my-4 mr-1 w-9 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 114,
+                                                lineNumber: 115,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52436,13 +52436,13 @@ const Resume = ()=>{
                                                 children: "ExpressJs"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 115,
+                                                lineNumber: 116,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 113,
+                                        lineNumber: 114,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52454,7 +52454,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-9 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 118,
+                                                lineNumber: 119,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52462,13 +52462,13 @@ const Resume = ()=>{
                                                 children: "REST API"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 119,
+                                                lineNumber: 120,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 117,
+                                        lineNumber: 118,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52480,7 +52480,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 122,
+                                                lineNumber: 123,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52488,13 +52488,13 @@ const Resume = ()=>{
                                                 children: "Mysql"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 123,
+                                                lineNumber: 124,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 121,
+                                        lineNumber: 122,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52506,7 +52506,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 126,
+                                                lineNumber: 127,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52514,13 +52514,13 @@ const Resume = ()=>{
                                                 children: "Docker"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 127,
+                                                lineNumber: 128,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 125,
+                                        lineNumber: 126,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52532,7 +52532,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 130,
+                                                lineNumber: 131,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52540,13 +52540,13 @@ const Resume = ()=>{
                                                 children: "C++"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 131,
+                                                lineNumber: 132,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 129,
+                                        lineNumber: 130,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -52558,7 +52558,7 @@ const Resume = ()=>{
                                                 className: "my-4 w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 134,
+                                                lineNumber: 135,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -52566,25 +52566,25 @@ const Resume = ()=>{
                                                 children: "Python"
                                             }, void 0, false, {
                                                 fileName: "src/components/Resume.js",
-                                                lineNumber: 135,
+                                                lineNumber: 136,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/components/Resume.js",
-                                        lineNumber: 133,
+                                        lineNumber: 134,
                                         columnNumber: 25
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/components/Resume.js",
-                                lineNumber: 84,
+                                lineNumber: 85,
                                 columnNumber: 21
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/components/Resume.js",
-                        lineNumber: 79,
+                        lineNumber: 80,
                         columnNumber: 17
                     }, undefined)
                 ]
@@ -53540,7 +53540,7 @@ $RefreshReg$(_c, "Links");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@mui/icons-material/Close":"2z2cd","react-router-dom":"9xmpe","../assets/avinash.jpg":"9mL5n","../assets/skills/leetcode.png":"imo9K","../assets/skills/github.png":"fjrXl","../assets/skills/linkedin.png":"2vhCV","../assets/skills/hackerrank.png":"h3Xu8","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../assets/gfg.jpg":"7OrZK"}],"imo9K":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","@mui/icons-material/Close":"2z2cd","react-router-dom":"9xmpe","../assets/avinash.jpg":"9mL5n","../assets/skills/leetcode.png":"imo9K","../assets/skills/github.png":"fjrXl","../assets/skills/linkedin.png":"2vhCV","../assets/skills/hackerrank.png":"h3Xu8","../assets/gfg.jpg":"7OrZK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"imo9K":[function(require,module,exports) {
 module.exports = require("63d9ae0a9d3ba92a").getBundleURL("aXMci") + "leetcode.ff80e9b6.png" + "?" + Date.now();
 
 },{"63d9ae0a9d3ba92a":"lgJ39"}],"2vhCV":[function(require,module,exports) {

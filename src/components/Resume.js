@@ -56,12 +56,13 @@ const Resume = () => {
                         <h1 className='text-2xl mb-5 text-[#009e66]'>Experience</h1>
                         <div className="max-lg:w-[335px] w-[500px] relative bg-[#161616] border-b lg:pt-8 lg:pl-12 lg:pb-8 lg:pr-12 max-lg:pt-4 max-lg:pl-8 max-lg:pb-4 max-lg:pr-8 border-l-[#009e66] border-l-2">
                             <span className='before:absolute before:left-0 before:mt-1 before:h-4 before:w-4 before:bg-[#009e66] '></span>
-                            <h1 className='inline text-xl'>Summer Internship</h1>
-                            <p className='text-[#9f9f9f] text-base pb-2 pt-2'>Ghaziabad (Aug'22 - Sep'22)</p>
+                            <h1 className='inline text-xl'>SDE Intern at Protut</h1>
+                            <p className='text-[#9f9f9f] text-base pb-2 pt-2'>Ghaziabad (May'24 - Present)</p>
                             <ul className='list-disc text-[#9f9f9f] text-[12px]'>
-                                <li><p>Learnt C++ During Internship </p></li>
-                                <li><p>Worked on a mini project using Web Development. A project based on Contibution
-                                    and Spliting of money within Group</p></li> 
+                                <li><p>Protut is an edtech startup dedicated to designing a platform that enhances technical projects and improves
+                                candidate evaluations. </p></li>
+                                <li><p>Developing the frontend as well as backend of Protut’s edtech platform using React.js,NodeJs,MongoDb and ExpressJs, enhancing user experience, and optimizing
+                                functionality</p></li> 
                             </ul>
                         </div>
                         <div className="max-lg:w-[335px] w-[500px] relative bg-[#161616] lg:pt-8 lg:pl-12 lg:pb-8 lg:pr-12 max-lg:pt-4 max-lg:pl-8 max-lg:pb-4 max-lg:pr-8 border-l-[#009e66] border-l-2">
