@@ -50729,7 +50729,7 @@ const Contact = ()=>{
     const form = (0, _react.useRef)();
     const sendEmail = (e)=>{
         e.preventDefault();
-        (0, _browserDefault.default).sendForm("service_osan1qu", "template_gwvlcsq", form.current, "95EfkP6A0BIOU2os3").then((result)=>{
+        (0, _browserDefault.default).sendForm("service_osan1qu", "template_ujqfnio", form.current, "95EfkP6A0BIOU2os3").then((result)=>{
             console.log(result);
             alert("Message Send Succesfully");
         }, (error)=>{
