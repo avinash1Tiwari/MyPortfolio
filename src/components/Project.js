@@ -87,13 +87,13 @@ const Project = () => {
             <div className="relative cursor-pointer group overflow-x-hidden hover:scale-105 transition-all duration-300 ease-linear">
               <div className="bg-[#000000dc] z-20 w-[92%] m-4 h-[88%] overflow-hidden absolute transition animate-right hidden group-hover:block">
                 <div className="flex align-middle justify-center p-16">
-                  <Link to="">
+                  <Link to="https://github.com/avinash1Tiwari/MyPortfolio">
                     <GitHubIcon
                       sx={{ color: "#009e66", fontSize: "35px" }}
                       className=" hover:scale-125 m-4"
                     />
                   </Link>
-                  <Link to=" ">
+                  <Link to="https://avintiwari.netlify.app/">
                     <LanguageSharpIcon
                       sx={{ color: "#009e66", fontSize: "35px" }}
                       className=" hover:scale-125 m-4"
