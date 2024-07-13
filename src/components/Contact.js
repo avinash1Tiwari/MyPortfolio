@@ -61,7 +61,7 @@ const Contact = () => {
       <div className="flex align-middle justify-center flex-col">
         <div className="m-auto p-20 text-center">
           <p className="text-thin text-[#9f9f9f] ">
-            Feel free to contact Me Anytime
+            Feel free to contact Me Anytime!
           </p>
           <h1 className=" text-4xl pt-6">
             Contact Me
