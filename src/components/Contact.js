@@ -7,6 +7,7 @@ import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import Home from "./Home";
 import { useNavigate } from "react-router-dom";
+require('dotenv').config();
 const Contact = () => {
   const navigate = useNavigate();
   const backHome = () => {
@@ -16,15 +17,26 @@ const Contact = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
+
+    console.log("form current : " , form.current)
     e.preventDefault();
 
     emailjs
+      // .sendForm(
+      //   "service_sehgoc2",
+      //   "template_c8y46fs",
+      //   form.current,
+      //   "95EfkP6A0BIOU2os3"
+      // )
+
+
       .sendForm(
-        "service_osan1qu",
-        "template_ujqfnio",
+        process.env.SERVICE_KEY,
+        process.env.TEMPLATE_KEY,
         form.current,
-        "95EfkP6A0BIOU2os3"
+        process.env.PUBLIC_KEY
       )
+      // template_c8y46fs
       .then(
         (result) => {
           console.log(result);
@@ -178,3 +190,22 @@ const Contact = () => {
   );
 };
 export default Contact;
+
+
+
+
+
+
+
+
+
+
+
+// Hello {{to_name}},
+
+// You got a new message from {{from_name}}:
+
+// {{message}}
+
+// Best wishes,
+// EmailJS team
